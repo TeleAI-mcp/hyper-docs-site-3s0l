@@ -1,2 +1,3 @@
-# hyper-docs-site-3s0l
-Documentation website for modern development workflows
+# Hyper Docs Site 3S0L
+
+A documentation website for modern development workflows.
